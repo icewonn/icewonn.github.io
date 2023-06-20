@@ -1,0 +1,124 @@
+
+#bg2{
+    margin-top: 100px;
+    border-style: none;
+    border-radius: 20px;
+    width: 450px;
+    height: 750px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0%;
+    background-color: #fff;
+    text-decoration: none;
+}
+
+.hero{
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    width: 450px;
+    height: 250px;
+    background-image: url(images/illustration-hero.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.text{
+    text-align: center;
+    border-style: none;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.plan{
+    border-style: none;
+    border-radius: 10px;
+    width: 350px;
+    background-position: center;
+    background-color: rgb(248, 249, 254);
+    margin: auto;
+    padding-left: 20px;
+    font-family:sans-serif;
+}
+
+.button1{
+    background-color:blue;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 19px;
+    margin-top: 30px;
+    width: 370px;
+    margin-left: 40px;
+    cursor: pointer;
+}
+
+.btn2{
+    margin-top: 30px;
+    margin-left: 160px;
+}
+
+
+
+#lb2{
+    color: rgb(114, 116, 121);
+    text-decoration: none;
+    font-size: 19px;
+    font-family: sans-serif;
+
+}
+
+
+
+
+
+
+#link{
+    padding-left: 70px;
+}
+
+#change{
+    color: rgb(52,39,177);
+}
+
+h1{
+    padding-top: 20px;
+    font-family:sans-serif;
+}
+
+h2{
+    font-size: 19px;
+}
+
+
+
+p{
+    font-size: 19px;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: rgb(77, 80, 88, 1);
+}
+
+
+
+
+
+
+
+#ap{
+    color: black;
+}
+
+
+
+
+
+body{
+    background-image: url(images/pattern-background-desktop.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
